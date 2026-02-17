@@ -18,10 +18,10 @@ from EEG signals with 79-81% accuracy on unseen subjects.
 
 If you use PainNet-ST in your research, please cite:
 ```bibtex
-@article{yourname2026painnet,
+@article{nafizul2026painnet,
   title={PainNet-ST: A Spatiotemporal CNN for EEG-Based Pain Classification},
   author={Your Name and Collaborators},
-  journal={Journal Name},
+  journal={IEEE Transaction},
   year={2026}
 }
 ```
