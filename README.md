@@ -5,7 +5,7 @@ A spatiotemporal convolutional neural network for EEG-based pain classification.
 ## Overview
 
 PainNet-ST is a deep learning model that classifies pain intensity (Low, Medium, High) 
-from EEG signals with 79-81% accuracy on unseen subjects.
+from EEG signals with 92.25% accuracy on unseen subjects.
 
 ## Key Features
 
